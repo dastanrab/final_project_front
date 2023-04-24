@@ -65,7 +65,7 @@ export default function Login() {
                         <label htmlFor="inputPassword2" className="visually-hidden">کد پیامکی</label>
                         <input ref={otp_value} type="text" className="form-control" id="inputPassword2" placeholder="کد پیامکی"/>
                     </div>
-                    <div className='col-md-2'><BsChatLeftTextFill size={40}/></div>
+                    <div className='col-md-2'><BsChatLeftTextFill size={50}/></div>
                 </div>
 
 
